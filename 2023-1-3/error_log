@@ -1,0 +1,42 @@
+[11-Jan-2023 20:54:44 America/Chicago] PHP Warning:  Array to string conversion in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:54:44 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home1/natasore/public_html/it262/2023-1-3/postback.php:10
+Stack trace:
+#0 /home1/natasore/public_html/it262/2023-1-3/postback.php(10): implode('.Array')
+#1 {main}
+  thrown in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:55:00 America/Chicago] PHP Warning:  Array to string conversion in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:55:00 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home1/natasore/public_html/it262/2023-1-3/postback.php:10
+Stack trace:
+#0 /home1/natasore/public_html/it262/2023-1-3/postback.php(10): implode('.Array')
+#1 {main}
+  thrown in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:56:17 America/Chicago] PHP Warning:  Array to string conversion in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:56:17 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home1/natasore/public_html/it262/2023-1-3/postback.php:10
+Stack trace:
+#0 /home1/natasore/public_html/it262/2023-1-3/postback.php(10): implode('.Array')
+#1 {main}
+  thrown in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:56:21 America/Chicago] PHP Warning:  Array to string conversion in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:56:21 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home1/natasore/public_html/it262/2023-1-3/postback.php:10
+Stack trace:
+#0 /home1/natasore/public_html/it262/2023-1-3/postback.php(10): implode('.Array')
+#1 {main}
+  thrown in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:59:18 America/Chicago] PHP Warning:  Array to string conversion in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 20:59:18 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home1/natasore/public_html/it262/2023-1-3/postback.php:10
+Stack trace:
+#0 /home1/natasore/public_html/it262/2023-1-3/postback.php(10): implode('.Array')
+#1 {main}
+  thrown in /home1/natasore/public_html/it262/2023-1-3/postback.php on line 10
+[11-Jan-2023 21:02:03 America/Chicago] PHP Warning:  Array to string conversion in /home1/natasore/public_html/it262/2023-1-3/form.php on line 10
+[11-Jan-2023 21:02:03 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home1/natasore/public_html/it262/2023-1-3/form.php:10
+Stack trace:
+#0 /home1/natasore/public_html/it262/2023-1-3/form.php(10): implode(', Array')
+#1 {main}
+  thrown in /home1/natasore/public_html/it262/2023-1-3/form.php on line 10
+[11-Jan-2023 21:08:47 America/Chicago] PHP Warning:  Array to string conversion in /home1/natasore/public_html/it262/2023-1-3/form.php on line 10
+[11-Jan-2023 21:08:47 America/Chicago] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($pieces) must be of type array, string given in /home1/natasore/public_html/it262/2023-1-3/form.php:10
+Stack trace:
+#0 /home1/natasore/public_html/it262/2023-1-3/form.php(10): implode(', Array')
+#1 {main}
+  thrown in /home1/natasore/public_html/it262/2023-1-3/form.php on line 10
