@@ -12,7 +12,7 @@
  */
 
 //place credentials here:
-define('DB_NAME','DATABASE NAME GOES HERE');
-define('DB_USER','MYSQL USER NAME GOES HERE');
-define('DB_PASSWORD','PASSWORD GOES HERE');
-define('DB_HOST','MYSQL SERVER NAME GOES HERE'); 
+define('DB_NAME','natasore_it262_winter2023');
+define('DB_USER','natasore_admin');
+define('DB_PASSWORD','');
+define('DB_HOST','localhost'); 
