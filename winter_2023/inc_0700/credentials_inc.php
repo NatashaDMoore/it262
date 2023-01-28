@@ -12,7 +12,7 @@
  */
 
 //place credentials here:
-define('DB_NAME','natasore_it262_winter2023');
+define('DB_NAME','natasore_it262_winter23');
 define('DB_USER','natasore_admin');
-define('DB_PASSWORD','');
+define('DB_PASSWORD','M@lbright37');
 define('DB_HOST','localhost'); 
