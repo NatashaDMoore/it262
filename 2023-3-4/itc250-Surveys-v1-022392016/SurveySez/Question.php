@@ -35,17 +35,20 @@ class Question
 	 */ 
 	function showAnswers()
 	{
-		if($this->TotalAnswers != 1){$s = 's';}else{$s = '';} #add 's' only if NOT one!!
-		echo "<em>[" . $this->TotalAnswers . " answer" . $s . "]</em> "; 
+		$myReturn = '';
+		// if($this->TotalAnswers != 1){$s = 's';}else{$s = '';} #add 's' only if NOT one!!
+		// $myReturn "<em>[" . $this->TotalAnswers . " answer" . $s . "]</em> "; 
 		foreach($this->aAnswer as $answer)
 		{#print data for each
-			echo "<em>(" . $answer->AnswerID . ")</em> ";
-			echo $answer->Text . " ";
+			$myReturn .= "<em>(" . $answer->AnswerID . ")</em> ";
+			$myReturn .= $answer->Text . " ";
 			if($answer->Description != "")
 			{#only print description if not empty
-				echo "<em>(" . $answer->Description . ")</em>";
+				$myReturn .= "<em>(" . $answer->Description . ")</em>";
 			}
 		}
-		print "<br />";
+		return $myReturn;
+
+		// print "<br />";
 	}#end showAnswers() method
 }# end Question class
